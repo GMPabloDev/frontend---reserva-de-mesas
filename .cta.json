@@ -1,0 +1,24 @@
+{
+  "projectName": "proyecto-pvd-frontend",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "bun",
+  "includeExamples": false,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {},
+  "git": true,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "biome",
+    "nitro",
+    "form",
+    "tanstack-query",
+    "shadcn",
+    "table",
+    "compiler"
+  ]
+}
